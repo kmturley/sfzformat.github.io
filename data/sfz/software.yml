@@ -414,6 +414,17 @@ categories:
     short_description:
       "Online automapper. Can create .sfz and .dspreset"
 
+  - name: "jSfzTools"
+    author: "Jeff Learman"
+    license: "Freeware"
+    url: "https://github.com/jlearman/jSfzTools"
+    os:
+    - name: "Linux"
+    - name: "macOS"
+    - name: "Windows"
+    short_description:
+      "Python script to automatically splice and label sample files, and to auto-create sfz mappings."
+
 - name: "Converters"
   applications:
 
